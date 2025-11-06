@@ -29,7 +29,7 @@ Ce jeu simule les règles classiques du jeu de billes traditionnel avec une inte
 1. Cloner le projet :
 
 ```bash
-git clone <URL_DU_PROJET>
+git clone https://github.com/celestsan30/jeu_billes.git
 cd jeu_billes
 ```
 
@@ -57,7 +57,7 @@ pip install pygame
 Pour lancer le jeu :
 
 ```bash
-python src/main.py
+python main.py
 ```
 
 Le jeu démarre avec :
